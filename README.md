@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStH_A0WKtnRtD_Bla6B71LjtP-GtYOkacYsg&usqp=CAU" alt="Choco Bot" width="500"/>
+<img src="https://telegra.ph/Choco-Bot-12-03" alt="Choco Bot" width="500"/>
 
 
 </p>
