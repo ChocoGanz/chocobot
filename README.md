@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://telegra.ph/Choco-Bot-12-03" alt="Choco Bot" width="500"/>
+<img src="https://api-xcoders.xyz/upload/2b2198476fa48341b812cbe3f35c47bb.jpg" alt="Choco Bot" width="500"/>
 
 
 </p>
