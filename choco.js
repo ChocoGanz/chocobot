@@ -48,7 +48,7 @@ const fakeThumb = fs.readFileSync('./media/chothmb.jpg')
 const fakeThumb2 = fs.readFileSync('./media/chothmb2.jpg')
 const fakeThumb3 = fs.readFileSync('./media/chothmb3.jpg')
 
-const gifFake = fs.readFileSync('./media/gif.mp4')
+const gifFake = fs.readFileSync('./media/anime.mp4')
 
 const _limit = JSON.parse(fs.readFileSync('./database/limit.json'))
 const scommand = JSON.parse(fs.readFileSync('./database/scommand.json'))
