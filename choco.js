@@ -44,7 +44,7 @@ const imgFake7 = fs.readFileSync('./media/fake7.jpg')
 const imgFake8 = fs.readFileSync('./media/fake8.jpg')
 const imgFake9 = fs.readFileSync('./media/fake9.jpg')
 
-const fakeThumb = fs.readFileSync('/sdcard/Download/TextPro.me_161bad7b825ffc.jpg')
+const fakeThumb = fs.readFileSync('./media/chothmb.jpg')
 const fakeThumb2 = fs.readFileSync('./media/chothmb2.jpg')
 const fakeThumb3 = fs.readFileSync('./media/chothmb3.jpg')
 
